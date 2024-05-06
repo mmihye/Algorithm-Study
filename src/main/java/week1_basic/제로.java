@@ -1,4 +1,4 @@
-package week1;
+package week1_basic;
 
 import java.util.*;
 import java.io.*;
